@@ -1,6 +1,7 @@
 # Description
-Angular 2+ currency display format and validation. Input value will automatically be displayed in currency format as you type. <br><br>
-You can also define currency symbol and maximum value.
+Angular 2+ currency display format and validation. Input value will automatically be displayed in currency format as you type. You can also define currency symbol and maximum value.
+
+<img src="./docs/example.gif" />
 
 # Installation
 
