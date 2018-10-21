@@ -1,0 +1,31 @@
+{
+  "name": "ng-currency-format",
+  "version": "0.1.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiqsaw/ng-currency-format"
+  },
+  "author": {
+    "name": "Burak Ucakan",
+    "email": "burakucakan@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiqsaw/ng-currency-format/issues"
+  },
+  "main": "ng-currency-format.umd.js",
+  "module": "ng-currency-format.js",
+  "jsnext:main": "ng-currency-format.js",
+  "typings": "ng-currency-format.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^6.1.0",
+    "@angular/platform-browser": "^6.1.0",
+    "@angular/platform-browser-dynamic": "^6.1.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
