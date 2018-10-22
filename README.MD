@@ -2,7 +2,7 @@
 Angular 2+ currency display format and validation. Input value will automatically be displayed in currency format as you type. You can also define currency symbol and maximum value.
 
 <img src="./docs/example.gif" />
-
+#
 # Installation
 
 To install this library, run:
@@ -11,7 +11,7 @@ To install this library, run:
 $ npm install ng-currency-format --save
 ```
 
-and then from your Angular Module`:
+and then from your Angular Module:
 
 ```typescript
 import { BrowserModule } from '@angular/platform-browser';
